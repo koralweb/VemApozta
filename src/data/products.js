@@ -1,7 +1,7 @@
 const products = [
   {
     name: '',
-    image: require('../'),
+    image: require('../assets/img/p1.png'),
     desc: '',
     price: 100,
     cat: 'Пирожные',
